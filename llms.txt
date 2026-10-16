@@ -1,4 +1,4 @@
-# 인터벌러너 (IntervalRunner)
+# 인터벌러너 (Intervel Runner)
 
 > Apple Watch에서 걷기와 달리기를 번갈아 하는 인터벌 운동을 시속과 시간까지 한국어 음성으로 안내하는 무료 앱. 러닝머신과 야외 모두 지원, 회원 가입 없음, 기록은 기기에만 저장. 대한민국 App Store 출시, iOS 26.0 · watchOS 26.0 이상.
 
